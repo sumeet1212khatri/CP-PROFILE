@@ -22,11 +22,20 @@ I am a **Systems Software Engineer** focused on C++, High-Performance Computing,
 
 ---
 
-### 💻 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumeet1212khatri&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeet1212khatri&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+
+<a href="https://github.com/sumeet1212khatri">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumeet1212khatri&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</a>
+
+<br/>
+
+<a href="https://github.com/sumeet1212khatri">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumeet1212khatri&theme=radical&hide_border=true" alt="GitHub Streak" />
+</a>
+
 </div>
 
 ---
