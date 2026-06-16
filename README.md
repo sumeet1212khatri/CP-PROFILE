@@ -8,8 +8,8 @@ I am a **Systems Software Engineer** focused on C++, High-Performance Computing,
 
 <div align="center">
 
-<a href="https://leetcode.com/u/4lsoDfYfse/">
-<img src="https://leetcard.jacoblin.cool/4lsoDfYfse?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+<a href="https://leetcode.com/u/sumeet_khatri/">
+<img src="https://leetcard.jacoblin.cool/sumeet_khatri?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
 <br/>
